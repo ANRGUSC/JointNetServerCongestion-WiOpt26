@@ -32,7 +32,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter
 Launch Jupyter and run the notebook from top to bottom:
 
 ```bash
-jupyter notebook WiOpt26JNSC.ipynb
+WiOpt26JNSC_Extended.ipynb
 ```
 
 The notebook generates the centralized and distributed solutions, numerical residual certificates, and the figures used in the extended manuscript.
