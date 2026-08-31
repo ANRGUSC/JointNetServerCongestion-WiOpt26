@@ -6,7 +6,7 @@ This repository contains the Python implementation and reproducibility materials
 Tamoghna Sarkar and Bhaskar Krishnamachari, WiOpt 2026.
 
 * [IEEE publication](https://doi.org/10.23919/WiOpt71098.2026.11568243)
-* [Extended arXiv version](https://arxiv.org/abs/2602.03246)
+* [Initial arXiv version](https://arxiv.org/abs/2602.03246)
 
 ## Overview
 
